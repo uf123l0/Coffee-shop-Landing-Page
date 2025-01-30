@@ -10,7 +10,7 @@ A visually appealing and responsive landing page for a coffee shop, designed to 
 
 - ## Demo
 
-You can view a live demo here: [Demo link (if available)]
+You can view a live demo here: [Demo link(https://uf123l0.github.io/Coffee-shop-Landing-Page/#)]
 
 ## Technologies Used
 
